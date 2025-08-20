@@ -19,11 +19,11 @@
 4.	log analytics workspace     --> Mydfir-shahid-law
 5.	Sentinel workspace         -->  Mydfir-shahid-law
 6.	data connectors 
-      a. Azure Activity
-      b. Microsoft sentinel training lab solution
-      c. install Microsoft defender for XDR
+- **Azure Activity**
+- **Microsoft Sentinel Training Lab Solution**
+- **Microsoft Defender for XDR**
 7.	workbooks
-      a.  Investigation insights
+   - **Investigation Insights**
 
 
 
