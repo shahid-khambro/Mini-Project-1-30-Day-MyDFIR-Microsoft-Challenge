@@ -60,6 +60,7 @@ Data Connectors Configured
 
 
 **Pie Chart**
+
 <img width="733" height="239" alt="pie chart " src="https://github.com/user-attachments/assets/43b3e1ba-c324-4d01-bd91-323e0486a252" />
 
 # 4. Reflection on Your Setup & KQL
