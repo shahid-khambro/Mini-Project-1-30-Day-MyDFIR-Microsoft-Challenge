@@ -69,10 +69,12 @@ Since your setup includes the Training Lab, you have a perfect playground. Hereâ
 
 # 5. Reflection Points
 
-What was the most challenging part of the setup?
+1. What was the most challenging part of the setup?
 The most challenging part is often understanding the hierarchy and dependencies: ensuring the Virtual Machine and Log Analytics Workspace are in the same Resource Group and Region, and correctly enabling Sentinel on the workspace, not the resource group. Connecting the data connectors and ensuring they are ingesting data properly can also have a learning curve.
-What was the most valuable thing you learned so far?
+
+2. What was the most valuable thing you learned so far?
 The most valuable insight is understanding the core architecture of a cloud SIEM: how data sources (like Azure Activity, M365) are connected via connectors to the Log Analytics Workspace, and how Sentinel sits on top to provide security analytics. It makes the theory of data ingestion and normalization very practical.
-What are you most excited to work on in the next module?
+
+3. What are you most excited to work on in the next module?
 I am most excited to dive into the Microsoft Sentinel Training Lab data. Using the pre-built analytic rules to generate incidents and then investigating them through the incident graph and hunting experience is the best way to learn real-world cyber investigation skills in a safe, simulated environment. 
 
