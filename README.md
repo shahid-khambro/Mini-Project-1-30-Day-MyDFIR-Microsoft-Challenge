@@ -53,10 +53,11 @@ Data Connectors Configured
 • Workbooks Created 
 <img width="929" height="338" alt="created workbooks" src="https://github.com/user-attachments/assets/d32c1a93-9821-4418-a4b8-755612d362fd" />
 
-**• Dashboards **
+**Dashboards **
 
 **Bar chart**
-<img width="626" height="308" alt="bar chart " src="https://github.com/user-attachments/assets/9aba177f-f5b3-43b4-b842-71f73c2fc658" />
+
+<img width="626" height="308" alt="bar chart " src="https://github.com/user-attachments/assets/2b13a473-c3b9-47dd-810e-e4830a199735" />
 
 
 **Pie Chart**
