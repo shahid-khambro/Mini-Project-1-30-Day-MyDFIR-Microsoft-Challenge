@@ -47,7 +47,8 @@ Data Connectors Configured
 
 <img width="773" height="307" alt="incident generated" src="https://github.com/user-attachments/assets/0bb07d29-29c5-4f4d-b672-4abdb82d2ce3" />
 
-**• Incident investigation **
+**Incident investigation**
+
 <img width="772" height="379" alt="incident investigation" src="https://github.com/user-attachments/assets/100d0f4d-6215-4843-8c91-fde688730335" />
 
 • Workbooks Created 
