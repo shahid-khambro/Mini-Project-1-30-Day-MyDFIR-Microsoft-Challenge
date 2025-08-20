@@ -19,19 +19,23 @@
 4.	log analytics workspace     --> Mydfir-shahid-law
 5.	Sentinel workspace         -->  Mydfir-shahid-law
 6.	data connectors 
-      a.	Azure Activity
-      b.	Microsoft sentinel training lab solution
-      c.	install Microsoft defender for XDR
+      a. Azure Activity
+      b. Microsoft sentinel training lab solution
+      c. install Microsoft defender for XDR
 7.	workbooks
-      a.	 Investigation insights
+      a.  Investigation insights
 
 
 
 # 3. Progress Documentation 
+
 Data Connectors Configured
 •	Azure Activity: Connects the subscription-level audit log for all write operations.
+
 •	Microsoft Defender for XDR (formerly Microsoft 365 Defender): This is a critical connector. It ingests alerts and raw data from Microsoft 365 (e.g., Microsoft Defender for Office 365, Microsoft Defender for Endpoint).
+
 •	Microsoft Sentinel Training Lab Solution: This is a package that deploys sample data, analytic rules, hunting queries, and a workbook to simulate attack scenarios for learning purposes. Excellent for practice!
+
 
 **Sentinel Components **
 
